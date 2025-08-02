@@ -1,4 +1,3 @@
-```markdown
 # Rubik's Cube Solver
 
 Solve a standard 3x3 Rubik’s Cube from any scrambled state using a custom algorithm and interactive web interface.
@@ -13,6 +12,8 @@ The solution is split into two main parts:
 
 - **Backend**: Written in Python with FastAPI for web-based access. It handles all cube logic and computations.
 - **Frontend**: Built with React (via Next.js), allowing users to visually set up the cube and solve it with one click.
+
+Live site: [https://rubik-s-cube-inky.vercel.app/](https://rubik-s-cube-inky.vercel.app/)
 
 ---
 
@@ -85,12 +86,7 @@ The app will be accessible at `http://localhost:3000`.
 
 ---
 
-
----
-🌐 Live Demo
-Check out the live deployed site here:
-👉 https://rubik-s-cube-inky.vercel.app/
----
+## 🚀 Rubik’s Cube Challenge
 
 This project was designed to meet the following criteria:
 
@@ -154,12 +150,10 @@ F L F U B R B2 D R F U2 L2 U' L2 B2 U' F2 D L2 B2 D' R2 F2 U2 L2
 
 ## 📸 Screenshot
 
-*(Insert your screenshot here if desired)*
-![alt text](image.png)
+![Rubik's Cube UI](image.png)
 
 ---
 
 ## 🙌 Credits
 
 Built as part of a programming challenge focused on algorithm design, optimization, and frontend/backend integration.
-```
