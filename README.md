@@ -85,7 +85,12 @@ The app will be accessible at `http://localhost:3000`.
 
 ---
 
-## 🚀 Rubik’s Cube Challenge
+
+---
+🌐 Live Demo
+Check out the live deployed site here:
+👉 https://rubik-s-cube-inky.vercel.app/
+---
 
 This project was designed to meet the following criteria:
 
